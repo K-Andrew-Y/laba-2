@@ -1,5 +1,5 @@
-def add (x,y): # add - сложение
-    return x+y # return - возвращает
+def add (x,y): # jgrjglkjrlg
+    return x+y #dvjldjl
 def subtruct (x,y):#subtruct - вычитание
     return x-y
 def multiply (a,b): #multiply - умножение
